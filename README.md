@@ -6,4 +6,4 @@
 ---
 - ![emg.png](emg.png)
 ---
-- ![emg.png](emg.png)
+- ![test_display.png](test_display.png)

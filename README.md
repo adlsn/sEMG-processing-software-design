@@ -5,5 +5,10 @@
 * This project focuses on `human gesture` recognition by detecting sEMG signals.
 ---
 - ![emg.png](emg.png)
+## signal sampling device.  
 ---
 - ![test_display.jpg](test_display.jpg)
+## sEMG signals sensor distribution and hand gesture recognition.
+---
+- ![Figure_1.jpg](Figure_1.jpg)   ![Figure_1.jpg](Figure_2.jpg)   ![Figure_1.jpg](Figure_3.jpg)
+## multi-channel sEMG signal 3-channel graphs.

@@ -10,5 +10,5 @@
 - ![test_display.jpg](test_display.jpg)
 ## sEMG signals sensor distribution and hand gesture recognition.
 ---
-- ![Figure_1.jpg](Figure_1.jpg)   ![Figure_1.jpg](Figure_2.jpg)   ![Figure_1.jpg](Figure_3.jpg)
+- ![Figure_1.jpg](Figure_1.jpg)   ![Figure_1.jpg](Figure_2.jpg)   ![Figure_1.jpg](Figure_3.jpg)   ![Figure_1.jpg](Figure_4.jpg)   ![Figure_1.jpg](Figure_5.jpg)
 ## multi-channel sEMG signal 3-channel graphs.
